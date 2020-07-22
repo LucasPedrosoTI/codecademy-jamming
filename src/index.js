@@ -1,14 +1,24 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import React from "react";
+import ReactDOM from "react-dom";
+import "./index.css";
+
+import { Provider as AlertProvider } from "react-alert";
+import AlertTemplate from "react-alert-template-oldschool-dark";
+import App from "./containers/App/App";
+import * as serviceWorker from "./serviceWorker";
+
+const options = {
+  position: "bottom center",
+  timeout: 5000,
+  offset: "30px",
+  transition: "scale",
+};
 
 ReactDOM.render(
-  <React.StrictMode>
+  <AlertProvider template={AlertTemplate} {...options}>
     <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+  </AlertProvider>,
+  document.getElementById("root")
 );
 
 // If you want your app to work offline and load faster, you can change

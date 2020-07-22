@@ -1,0 +1,37 @@
+.playlist-info h2 {
+  margin: 15px 0;
+}
+
+.playlist-info img.playlist-image {
+  width: 50vh !important;
+  height: 50%;
+  max-height: 285px;
+  border-radius: 5px;
+  box-shadow: 0 4px 2px 2px #000000;
+}
+
+.carousel .slide {
+  background-color: unset !important;
+}
+
+.playlist-text {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 45px;
+}
+.playlist-text p:first-child {
+  margin: 15px 0;
+}
+
+.playlist-text p:last-child {
+  font-size: 0.8rem;
+  font-weight: 100;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -o-text-overflow: ellipsis; /* Opera < 11*/
+  width: 90%;
+}
