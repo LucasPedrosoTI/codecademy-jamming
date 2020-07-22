@@ -10,49 +10,6 @@ import UserPlaylists from "../../components/UserPlaylists";
 
 import { Spotify } from "../../util/Spotify";
 
-// const playlistTracksData = [
-//   { id: 1, name: "music", artist: "John", album: "album" },
-//   { id: 2, name: "music2", artist: "John", album: "album2" },
-// ];
-
-const playlists = [
-  {
-    description: "",
-    id: "1Ddp42RNhmkNpjemixxd9c",
-    image: {
-      height: 640,
-      url:
-        "https://mosaic.scdn.co/640/ab67616d0000b2731784842…c3ed9f7aaab67616d0000b273f72b466f20c5cf3562cb9bc6",
-      width: 640,
-    },
-    name: "⭐️",
-    owner: "camilisromao",
-  },
-  {
-    description: "",
-    id: "54CZ9gaZbdLFQM4jrNniOd",
-    image: {
-      height: 640,
-      url:
-        "https://mosaic.scdn.co/640/ab67616d0000b273063fdd2…459d5b5abab67616d0000b273e3af7a9341760340fc7a8dc5",
-      width: 640,
-    },
-    name: "Reggae & P Rock Nac. & Pop 🍀",
-    owner: "Lucas Pedroso",
-  },
-  {
-    description: "As melhores do funk!!!",
-    id: "4YobWETUsUEnoIZsRUpdxI",
-    image: {
-      height: null,
-      url: "https://i.scdn.co/image/ab67706c0000bebb03cf9b28b5ec3f6be414e222",
-      width: null,
-    },
-    name: "FUNK 2020 - 🔞 Combatchy ",
-    owner: "Andressa Raffler",
-  },
-];
-
 const App = () => {
   const alert = useAlert();
   const [searchResults, setSearchResults] = useState([]);
