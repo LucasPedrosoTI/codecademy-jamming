@@ -1,0 +1,748 @@
+{
+  "href": "https://api.spotify.com/v1/users/lps0002/playlists?offset=0&limit=20",
+  "items": [
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/1Ddp42RNhmkNpjemixxd9c"
+      },
+      "href": "https://api.spotify.com/v1/playlists/1Ddp42RNhmkNpjemixxd9c",
+      "id": "1Ddp42RNhmkNpjemixxd9c",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2731784842155640874660c878bab67616d0000b2735997605214d568d73fd365c2ab67616d0000b273665e84be36593dec3ed9f7aaab67616d0000b273f72b466f20c5cf3562cb9bc6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2731784842155640874660c878bab67616d0000b2735997605214d568d73fd365c2ab67616d0000b273665e84be36593dec3ed9f7aaab67616d0000b273f72b466f20c5cf3562cb9bc6",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2731784842155640874660c878bab67616d0000b2735997605214d568d73fd365c2ab67616d0000b273665e84be36593dec3ed9f7aaab67616d0000b273f72b466f20c5cf3562cb9bc6",
+          "width": 60
+        }
+      ],
+      "name": "⭐️",
+      "owner": {
+        "display_name": "camilisromao",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/camilisromao"
+        },
+        "href": "https://api.spotify.com/v1/users/camilisromao",
+        "id": "camilisromao",
+        "type": "user",
+        "uri": "spotify:user:camilisromao"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NDksM2U1ZjYyNjhlMDg0NzdjMmMwZjI4YmJjODk1Zjk2ZGNiNzExOTUwYw==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/1Ddp42RNhmkNpjemixxd9c/tracks",
+        "total": 44
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:1Ddp42RNhmkNpjemixxd9c"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/54CZ9gaZbdLFQM4jrNniOd"
+      },
+      "href": "https://api.spotify.com/v1/playlists/54CZ9gaZbdLFQM4jrNniOd",
+      "id": "54CZ9gaZbdLFQM4jrNniOd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b273063fdd27ddb430aa95924c1bab67616d0000b2737eb0611fadd902d45cd549a7ab67616d0000b273df19601ba93ab7b459d5b5abab67616d0000b273e3af7a9341760340fc7a8dc5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b273063fdd27ddb430aa95924c1bab67616d0000b2737eb0611fadd902d45cd549a7ab67616d0000b273df19601ba93ab7b459d5b5abab67616d0000b273e3af7a9341760340fc7a8dc5",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b273063fdd27ddb430aa95924c1bab67616d0000b2737eb0611fadd902d45cd549a7ab67616d0000b273df19601ba93ab7b459d5b5abab67616d0000b273e3af7a9341760340fc7a8dc5",
+          "width": 60
+        }
+      ],
+      "name": "Reggae & P Rock Nac. & Pop 🍀",
+      "owner": {
+        "display_name": "Lucas Pedroso",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/lps0002"
+        },
+        "href": "https://api.spotify.com/v1/users/lps0002",
+        "id": "lps0002",
+        "type": "user",
+        "uri": "spotify:user:lps0002"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTkzLGQ2YTExNWI0ODFkZGRiZGU2N2RiNDA0NjI0MGUxZWY2ZDM3NjE2NTg=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/54CZ9gaZbdLFQM4jrNniOd/tracks",
+        "total": 162
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:54CZ9gaZbdLFQM4jrNniOd"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5dyLIzKuf9JZcOfsMPxP4T"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5dyLIzKuf9JZcOfsMPxP4T",
+      "id": "5dyLIzKuf9JZcOfsMPxP4T",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2733491410d07c02edb31fcab42ab67616d0000b273570eebfa4c1105745b9f763dab67616d0000b273b5430302fc77c785cfeadd95ab67616d0000b273c7b2db987f630bf52136427a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2733491410d07c02edb31fcab42ab67616d0000b273570eebfa4c1105745b9f763dab67616d0000b273b5430302fc77c785cfeadd95ab67616d0000b273c7b2db987f630bf52136427a",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2733491410d07c02edb31fcab42ab67616d0000b273570eebfa4c1105745b9f763dab67616d0000b273b5430302fc77c785cfeadd95ab67616d0000b273c7b2db987f630bf52136427a",
+          "width": 60
+        }
+      ],
+      "name": "🎻MPB, Bossa Nova & Rock Nacional 🎸",
+      "owner": {
+        "display_name": "Lucas Pedroso",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/lps0002"
+        },
+        "href": "https://api.spotify.com/v1/users/lps0002",
+        "id": "lps0002",
+        "type": "user",
+        "uri": "spotify:user:lps0002"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTkzLDQ0NDc0ODI3MDMwMTA2NDk0YzYyNDQ1MTliMmY3NjJmZDVmMDNhNTY=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5dyLIzKuf9JZcOfsMPxP4T/tracks",
+        "total": 180
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5dyLIzKuf9JZcOfsMPxP4T"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5NCsUoyVBVH8qKuBkeumTX"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5NCsUoyVBVH8qKuBkeumTX",
+      "id": "5NCsUoyVBVH8qKuBkeumTX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b273076ee6bb2e6698d19edb095bab67616d0000b2735b7a84cb1c778ee837fed627ab67616d0000b2737fac9732ed207c25284c849cab67616d0000b273f309fd627992941ef663eb7a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b273076ee6bb2e6698d19edb095bab67616d0000b2735b7a84cb1c778ee837fed627ab67616d0000b2737fac9732ed207c25284c849cab67616d0000b273f309fd627992941ef663eb7a",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b273076ee6bb2e6698d19edb095bab67616d0000b2735b7a84cb1c778ee837fed627ab67616d0000b2737fac9732ed207c25284c849cab67616d0000b273f309fd627992941ef663eb7a",
+          "width": 60
+        }
+      ],
+      "name": "Sertanejo",
+      "owner": {
+        "display_name": "Lucas Pedroso",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/lps0002"
+        },
+        "href": "https://api.spotify.com/v1/users/lps0002",
+        "id": "lps0002",
+        "type": "user",
+        "uri": "spotify:user:lps0002"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NTQsNDBmZGJlZjM0YTI2NTNjOTE5YjE2NDAzOTJmMWMwNWVkMzgzMjVlMw==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5NCsUoyVBVH8qKuBkeumTX/tracks",
+        "total": 48
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5NCsUoyVBVH8qKuBkeumTX"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/120veETtDYVyOq2aNlsYQ2"
+      },
+      "href": "https://api.spotify.com/v1/playlists/120veETtDYVyOq2aNlsYQ2",
+      "id": "120veETtDYVyOq2aNlsYQ2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2735d5c4f3080d79d86bd98f2c4ab67616d0000b2736d19d4cc3c38ef05a25aecfaab67616d0000b2737d1f1b1aade18aab557d6addab67616d0000b273abff6f55bb7b2c23266311e0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2735d5c4f3080d79d86bd98f2c4ab67616d0000b2736d19d4cc3c38ef05a25aecfaab67616d0000b2737d1f1b1aade18aab557d6addab67616d0000b273abff6f55bb7b2c23266311e0",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2735d5c4f3080d79d86bd98f2c4ab67616d0000b2736d19d4cc3c38ef05a25aecfaab67616d0000b2737d1f1b1aade18aab557d6addab67616d0000b273abff6f55bb7b2c23266311e0",
+          "width": 60
+        }
+      ],
+      "name": "Reggaeton",
+      "owner": {
+        "display_name": "Lucas Pedroso",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/lps0002"
+        },
+        "href": "https://api.spotify.com/v1/users/lps0002",
+        "id": "lps0002",
+        "type": "user",
+        "uri": "spotify:user:lps0002"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NDAsYWRjZTIyZWI1ZmRmZDhlZjQ4YTZhMGQwY2FiYTdlMWQyZDU2M2M3ZQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/120veETtDYVyOq2aNlsYQ2/tracks",
+        "total": 36
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:120veETtDYVyOq2aNlsYQ2"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/2E8dRrYJlifX8dfR8JstXM"
+      },
+      "href": "https://api.spotify.com/v1/playlists/2E8dRrYJlifX8dfR8JstXM",
+      "id": "2E8dRrYJlifX8dfR8JstXM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b27302c979ea5d277d659496d0a3ab67616d0000b27309bff92c684b84e45915ae6fab67616d0000b2738b1dc76f3a0cc8381b012e24ab67616d0000b273a1acb3ec1bdd2a82d0f72364",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b27302c979ea5d277d659496d0a3ab67616d0000b27309bff92c684b84e45915ae6fab67616d0000b2738b1dc76f3a0cc8381b012e24ab67616d0000b273a1acb3ec1bdd2a82d0f72364",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b27302c979ea5d277d659496d0a3ab67616d0000b27309bff92c684b84e45915ae6fab67616d0000b2738b1dc76f3a0cc8381b012e24ab67616d0000b273a1acb3ec1bdd2a82d0f72364",
+          "width": 60
+        }
+      ],
+      "name": "Rock",
+      "owner": {
+        "display_name": "Lucas Pedroso",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/lps0002"
+        },
+        "href": "https://api.spotify.com/v1/users/lps0002",
+        "id": "lps0002",
+        "type": "user",
+        "uri": "spotify:user:lps0002"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MjQsZTY2NDQ5YzQzNDFjZjRkMTRmMWNlYjQ4NDRjOTk3MzdlMjRlNzhiNg==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/2E8dRrYJlifX8dfR8JstXM/tracks",
+        "total": 32
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:2E8dRrYJlifX8dfR8JstXM"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0c8SKapWI6DzueEoId9YVy"
+      },
+      "href": "https://api.spotify.com/v1/playlists/0c8SKapWI6DzueEoId9YVy",
+      "id": "0c8SKapWI6DzueEoId9YVy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2733d57a940b2d55b7ef9558e4eab67616d0000b273c80e8153f03b7818c15df773ab67616d0000b273eed3bddfbb1e55b6d95f9f8aab67616d0000b273f5590976f1d5ad71ae4beb46",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2733d57a940b2d55b7ef9558e4eab67616d0000b273c80e8153f03b7818c15df773ab67616d0000b273eed3bddfbb1e55b6d95f9f8aab67616d0000b273f5590976f1d5ad71ae4beb46",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2733d57a940b2d55b7ef9558e4eab67616d0000b273c80e8153f03b7818c15df773ab67616d0000b273eed3bddfbb1e55b6d95f9f8aab67616d0000b273f5590976f1d5ad71ae4beb46",
+          "width": 60
+        }
+      ],
+      "name": "Funk",
+      "owner": {
+        "display_name": "Lucas Pedroso",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/lps0002"
+        },
+        "href": "https://api.spotify.com/v1/users/lps0002",
+        "id": "lps0002",
+        "type": "user",
+        "uri": "spotify:user:lps0002"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTA4LGEzY2JjYWQxYjI5NjIzOTU3MzczYTAwNmQ0OWEyOWNjMjFmODZhY2M=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0c8SKapWI6DzueEoId9YVy/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:0c8SKapWI6DzueEoId9YVy"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6CSyeK0d2Ps8HwGI9dNOPe"
+      },
+      "href": "https://api.spotify.com/v1/playlists/6CSyeK0d2Ps8HwGI9dNOPe",
+      "id": "6CSyeK0d2Ps8HwGI9dNOPe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b27344f53b30134ae26020e8bb66ab67616d0000b27385c2b1aec130ecfbf0b948d6ab67616d0000b2739702d4167a5171caf7ebadfaab67616d0000b273bf915caa8673102e56230b78",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b27344f53b30134ae26020e8bb66ab67616d0000b27385c2b1aec130ecfbf0b948d6ab67616d0000b2739702d4167a5171caf7ebadfaab67616d0000b273bf915caa8673102e56230b78",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b27344f53b30134ae26020e8bb66ab67616d0000b27385c2b1aec130ecfbf0b948d6ab67616d0000b2739702d4167a5171caf7ebadfaab67616d0000b273bf915caa8673102e56230b78",
+          "width": 60
+        }
+      ],
+      "name": "ELETRO",
+      "owner": {
+        "display_name": "Lucas Pedroso",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/lps0002"
+        },
+        "href": "https://api.spotify.com/v1/users/lps0002",
+        "id": "lps0002",
+        "type": "user",
+        "uri": "spotify:user:lps0002"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NDIsMmI2NTY2YzQ3NDQ0YTVlZmI4NjFkMDAyZjMyM2I4ODU0MDEyZDE4YQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/6CSyeK0d2Ps8HwGI9dNOPe/tracks",
+        "total": 37
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:6CSyeK0d2Ps8HwGI9dNOPe"
+    },
+    {
+      "collaborative": false,
+      "description": "Ouça o melhor do hip hop nacional. Foto: L7NNON, Chris MC, Xamã, Lourena, Cesar Mc, Djonga, Filipe Ret.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWSIvbYYt1Dvi"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSIvbYYt1Dvi",
+      "id": "37i9dQZF1DWSIvbYYt1Dvi",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000003860230a56bbef9c88bb01e15",
+          "width": null
+        }
+      ],
+      "name": "RAPública",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTU5NTYwNDMyNSwwMDAwMDBmZTAwMDAwMTczODE2ZGQ2MjIwMDAwMDE3MzVhMDY2NjQy",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSIvbYYt1Dvi/tracks",
+        "total": 60
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWSIvbYYt1Dvi"
+    },
+    {
+      "collaborative": false,
+      "description": "Aquí puedes escuchar la mejor seleccón de Reggaeton y musica latina del momento! Artistas como Bad Bunny, Anuel Aa, J Balvin, Ozuna, Farruko, Romeo Santos, Nengo Flow, Maluma, Brytiago, Karol G, Becky G, Natti Natasha, Wisin &amp; Yandel, Reykon, Arcangel, Daddy Yankee, Lunay",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6wawvCL8mYHzBf4Pe5bXFU"
+      },
+      "href": "https://api.spotify.com/v1/playlists/6wawvCL8mYHzBf4Pe5bXFU",
+      "id": "6wawvCL8mYHzBf4Pe5bXFU",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebb4f6a813a00f199fd0666f8cc",
+          "width": null
+        }
+      ],
+      "name": "Reggaeton 2020 & Latino | Trap | JUNIO",
+      "owner": {
+        "display_name": "juli030",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/juli030"
+        },
+        "href": "https://api.spotify.com/v1/users/juli030",
+        "id": "juli030",
+        "type": "user",
+        "uri": "spotify:user:juli030"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MjUzLGI2Mjk1Y2JhOGUwMzI0YzU2ZTdhNzRhZGZkN2Y0ZDdlYWU1Y2JhZTA=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/6wawvCL8mYHzBf4Pe5bXFU/tracks",
+        "total": 450
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:6wawvCL8mYHzBf4Pe5bXFU"
+    },
+    {
+      "collaborative": false,
+      "description": "Are you in a band and want to submit to my playlist? Email bestofrockandmetal@gmail.com",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/3YouF0u7waJnolytf9JCXf"
+      },
+      "href": "https://api.spotify.com/v1/playlists/3YouF0u7waJnolytf9JCXf",
+      "id": "3YouF0u7waJnolytf9JCXf",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebba01ea90c3fef0d3ee290f4a6",
+          "width": null
+        }
+      ],
+      "name": "Hard Rock Workout",
+      "owner": {
+        "display_name": "Stephen Holland",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1255201584"
+        },
+        "href": "https://api.spotify.com/v1/users/1255201584",
+        "id": "1255201584",
+        "type": "user",
+        "uri": "spotify:user:1255201584"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MzgzNCxhMzIwZjY2OTcxMTgxYzQyNGYzODdjZWNiODFjMjBlMjZkZGI4ZGZk",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/3YouF0u7waJnolytf9JCXf/tracks",
+        "total": 275
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:3YouF0u7waJnolytf9JCXf"
+    },
+    {
+      "collaborative": false,
+      "description": "As melhores da música popular brasileira! Atualizada regularmente ♥ &#x2F; The best of Brazilian popular music! Updated regularly ♥ Facebook: &#x2F;bestplaysong",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/2MORcyRdKV1UNYaVpV6MkN"
+      },
+      "href": "https://api.spotify.com/v1/playlists/2MORcyRdKV1UNYaVpV6MkN",
+      "id": "2MORcyRdKV1UNYaVpV6MkN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2730f8559c86e3bb07857061a57ab67616d0000b2738356ae7cd6e16cd302b242d2ab67616d0000b273bad7f5839b4b166fd8b323e5ab67616d0000b273eb9a1b7cc6ddfcc503bf0083",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2730f8559c86e3bb07857061a57ab67616d0000b2738356ae7cd6e16cd302b242d2ab67616d0000b273bad7f5839b4b166fd8b323e5ab67616d0000b273eb9a1b7cc6ddfcc503bf0083",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2730f8559c86e3bb07857061a57ab67616d0000b2738356ae7cd6e16cd302b242d2ab67616d0000b273bad7f5839b4b166fd8b323e5ab67616d0000b273eb9a1b7cc6ddfcc503bf0083",
+          "width": 60
+        }
+      ],
+      "name": "MPB",
+      "owner": {
+        "display_name": "tainanolveira",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/tainanolveira"
+        },
+        "href": "https://api.spotify.com/v1/users/tainanolveira",
+        "id": "tainanolveira",
+        "type": "user",
+        "uri": "spotify:user:tainanolveira"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTAsMDJhZDdiZWRiOTJmZDI0MGM4MzFmZWVjODEyYzYzODdmMjM0MTUzZA==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/2MORcyRdKV1UNYaVpV6MkN/tracks",
+        "total": 133
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:2MORcyRdKV1UNYaVpV6MkN"
+    },
+    {
+      "collaborative": false,
+      "description": "O melhor do Hip Hop para suar a camisa e esquentar o seu treino!",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/2omeFtAqGQtLMgyUhrcgWU"
+      },
+      "href": "https://api.spotify.com/v1/playlists/2omeFtAqGQtLMgyUhrcgWU",
+      "id": "2omeFtAqGQtLMgyUhrcgWU",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebb22f4085936547e848c7b8eac",
+          "width": null
+        }
+      ],
+      "name": "Treino Crossfit Hip Hop | Hip Hop pra Treinar | RAP pra treinar",
+      "owner": {
+        "display_name": "Digster Brasil",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/digster_brasil"
+        },
+        "href": "https://api.spotify.com/v1/users/digster_brasil",
+        "id": "digster_brasil",
+        "type": "user",
+        "uri": "spotify:user:digster_brasil"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTU4OSxmMjI3NDA0ZDc1MjQ0NTVkZGUwMTc1OTE2YzcxMGI0ZDNkZjMzYjcy",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/2omeFtAqGQtLMgyUhrcgWU/tracks",
+        "total": 94
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:2omeFtAqGQtLMgyUhrcgWU"
+    },
+    {
+      "collaborative": false,
+      "description": "Chill Music &amp;amp;amp; Chillout Lounge &amp;amp;amp; Chill Hits 2019 Contact: shenstonpeterus@gmail.com",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5YQguSPwYztGN1wUHEJOyZ"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5YQguSPwYztGN1wUHEJOyZ",
+      "id": "5YQguSPwYztGN1wUHEJOyZ",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebb9bba5e257e97adfa88ab3932",
+          "width": null
+        }
+      ],
+      "name": "Chill Lounge 🍹🌴  / Chillout Music / Chill Hits 2019",
+      "owner": {
+        "display_name": "f_carloto",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/f_carloto"
+        },
+        "href": "https://api.spotify.com/v1/users/f_carloto",
+        "id": "f_carloto",
+        "type": "user",
+        "uri": "spotify:user:f_carloto"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MzI1NyxiODA2NmFiMWVmYzc2NTI3NDVmODk4NGZlMDRjYTE4ZTFlZGZiNmQ5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5YQguSPwYztGN1wUHEJOyZ/tracks",
+        "total": 86
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5YQguSPwYztGN1wUHEJOyZ"
+    },
+    {
+      "collaborative": false,
+      "description": "Ouça os maiores hits do Brasil! Foto: Jonas Esticado.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0FOF1IUWK1W"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0FOF1IUWK1W",
+      "id": "37i9dQZF1DX0FOF1IUWK1W",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000003bf9dfa6e7c6759f2f8717890",
+          "width": null
+        }
+      ],
+      "name": "Top Brasil",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTU5NTU1OTcyMCwwMDAwMDE2ZTAwMDAwMTczN2VjNTM1OTIwMDAwMDE3MzdkYWM2NDg1",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0FOF1IUWK1W/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DX0FOF1IUWK1W"
+    },
+    {
+      "collaborative": false,
+      "description": "As faixas que estão com tudo e os grandes hits em um único lugar! Foto: Taylor Swift",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX6aTaZa0K6VA"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6aTaZa0K6VA",
+      "id": "37i9dQZF1DX6aTaZa0K6VA",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000003c9cd51538fb063f6d6c4e8be",
+          "width": null
+        }
+      ],
+      "name": "Pop Up",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTU5NTU2MzMyMCwwMDAwMDIxZTAwMDAwMTczN2VmYzIzNWIwMDAwMDE3MzdkYTJiNjk5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6aTaZa0K6VA/tracks",
+        "total": 71
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DX6aTaZa0K6VA"
+    },
+    {
+      "collaborative": false,
+      "description": "O Brasil jamaicano movido pela pulsação de Jah. Foto: Maneva.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWTMlvEhEJDRB"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTMlvEhEJDRB",
+      "id": "37i9dQZF1DWTMlvEhEJDRB",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000003fec1164342bbf401edaf0484",
+          "width": null
+        }
+      ],
+      "name": "Nação Reggae",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTU5NDM1MDEyMCwwMDAwMDA5ZDAwMDAwMTczMzZhYzJkMGEwMDAwMDE3MzEyYTE2MTVk",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTMlvEhEJDRB/tracks",
+        "total": 70
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWTMlvEhEJDRB"
+    },
+    {
+      "collaborative": false,
+      "description": "As melhores do funk!!!",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/4YobWETUsUEnoIZsRUpdxI"
+      },
+      "href": "https://api.spotify.com/v1/playlists/4YobWETUsUEnoIZsRUpdxI",
+      "id": "4YobWETUsUEnoIZsRUpdxI",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebb03cf9b28b5ec3f6be414e222",
+          "width": null
+        }
+      ],
+      "name": "FUNK 2020 - 🔞 Combatchy ",
+      "owner": {
+        "display_name": "Andressa Raffler",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/dessavezz"
+        },
+        "href": "https://api.spotify.com/v1/users/dessavezz",
+        "id": "dessavezz",
+        "type": "user",
+        "uri": "spotify:user:dessavezz"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NjAxLDU4Yjc4MWNjMDVlYzc0ZGYwZGU0MWFjODcyMGQ4YmZmMjY3NDNjMjQ=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/4YobWETUsUEnoIZsRUpdxI/tracks",
+        "total": 64
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:4YobWETUsUEnoIZsRUpdxI"
+    }
+  ],
+  "limit": 20,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 18
+}

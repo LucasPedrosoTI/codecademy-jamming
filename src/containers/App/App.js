@@ -106,14 +106,14 @@ const App = () => {
     const playlistStore = JSON.parse(
       window.localStorage.getItem("playlistTracks")
     );
-    const playlistNameStorage = window.localStorage.getItem("playlistName");
+    const playlistNameStore = window.localStorage.getItem("playlistName");
 
     if (playlistStore !== null) {
       setPlaylistTracks(playlistStore);
     }
 
-    if (playlistNameStorage !== null) {
-      setPlaylistName(playlistNameStorage);
+    if (playlistNameStore !== null) {
+      setPlaylistName(playlistNameStore);
     }
 
     fetchPlaylists().then((data) => {

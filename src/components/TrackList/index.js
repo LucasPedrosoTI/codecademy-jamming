@@ -12,6 +12,7 @@ const TrackList = ({ tracks, onAdd, onRemove, isRemoval }) => {
     <div className="TrackList">
       {tracks.map((track) => (
         <Track
+          data-testid={"track"}
           key={track.id}
           track={track}
           onAdd={onAdd}

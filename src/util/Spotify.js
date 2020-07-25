@@ -30,7 +30,9 @@ const getAccessToken = () => {
   }
 
   if (!accessToken && !window.location.href.match(/access_token=([^&]*)/)) {
-    window.location.href = `https://accounts.spotify.com/authorize?client_id=${clientId}&response_type=token&scope=playlist-modify-public&redirect_uri=${redirectUri}`;
+    window.location.assign(
+      `https://accounts.spotify.com/authorize?client_id=${clientId}&response_type=token&scope=playlist-modify-public&redirect_uri=${redirectUri}`
+    );
 
     window.alert("Let's log you in first ✅");
   }

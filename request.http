@@ -1,0 +1,3 @@
+GET https://api.spotify.com/v1/me/playlists HTTP/1.1
+content-type: application/json
+Authorization: Bearer BQAYQ7VX6JSb1hV9d2SpZGDVBMzoGqrifjk_xexJPRZ5weFWEOkXyv0w8KGZ4UBX2Kyx2q3wKAln5kq5khvGwXh3MISXHhL1R9xOxkyky7IKhkbkAVhy1Lfq5fNj21wBl81vwMMV_PnnBlKReANZfvBk-Ex2UNV7y_-qvlqgD3w

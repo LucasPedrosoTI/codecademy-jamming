@@ -24,14 +24,19 @@ const SearchBar = ({ onSearch }) => {
   }, []);
 
   return (
-    <form className="SearchBar" onSubmit={search}>
+    <form data-testid="search_form" className="SearchBar" onSubmit={search}>
       <input
         value={term}
         placeholder="Enter A Song, Album, or Artist"
         onChange={(evt) => handleTermChange(evt)}
+        data-testid="search_input"
       />
 
-      <button type="submit" className="SearchButton">
+      <button
+        type="submit"
+        className="SearchButton"
+        data-testid="search_button"
+      >
         SEARCH
       </button>
     </form>

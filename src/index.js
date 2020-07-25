@@ -1,7 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom";
+
 import "./index.css";
 
+import ErrorBoundary from "./error/Error";
 import { Provider as AlertProvider } from "react-alert";
 import AlertTemplate from "react-alert-template-oldschool-dark";
 import App from "./containers/App/App";
@@ -15,9 +17,11 @@ const options = {
 };
 
 ReactDOM.render(
-  <AlertProvider template={AlertTemplate} {...options}>
-    <App />
-  </AlertProvider>,
+  <ErrorBoundary>
+    <AlertProvider template={AlertTemplate} {...options}>
+      <App />
+    </AlertProvider>
+  </ErrorBoundary>,
   document.getElementById("root")
 );
 
